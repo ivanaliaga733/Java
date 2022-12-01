@@ -1,0 +1,7 @@
+FACULTY	mike	mitri	65	married	male	full professor
+FACULTY	jOhn	gUo	-5	xxx	yyy	associate professor
+FACULTY	Cheryl	Mitri	59	married	female	assistant professor
+FACULTY	Brendan	Mitri	32	single	male	zzzz
+STUDENT	eric	mitri	28	xxx	male	CIS	senior	3.33
+STUDENT	joshua	mitri	32	complicated	male	marketing	junior	3.15
+PERSON	Joe	bIDEN	79	married	male
